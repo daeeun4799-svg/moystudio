@@ -18,16 +18,19 @@ export const categories = [
     videos: [
       {
         title: "토트넘 뷰잉파티 스케치",
+        description: "경기를 함께 보며 응원하는 팬들의 열기를 담은 행사 스케치",
         id: "MyGk0O7vXTg",
         url: "https://www.youtube.com/watch?v=MyGk0O7vXTg",
       },
       {
         title: "HOKA 팝업스토어 스케치",
+        description: "브랜드 팝업스토어의 현장 분위기와 방문객 모습을 담은 영상",
         id: "EkAWsKYAiUk",
         url: "https://youtu.be/EkAWsKYAiUk",
       },
       {
         title: "주민총회 스케치",
+        description: "주민들이 모여 의견을 나누는 총회 현장을 정리한 기록 영상",
         id: "DQaSyKsdwAQ",
         url: "https://youtu.be/DQaSyKsdwAQ",
       },
@@ -41,6 +44,7 @@ export const categories = [
     videos: [
       {
         title: "해외 의료 다큐멘터리",
+        description: "해외 의료 현장의 인물과 이야기를 따라간 다큐멘터리",
         id: "DH1nwgWdTjc",
         url: "https://www.youtube.com/watch?v=DH1nwgWdTjc",
       },
@@ -64,6 +68,7 @@ export const categories = [
     videos: [
       {
         title: "제품 홍보영상 (화장품)",
+        description: "제품의 특징과 분위기를 감각적으로 전달하는 홍보영상",
         id: "vVzn1MKm5IQ",
         url: "https://youtu.be/vVzn1MKm5IQ",
       },
@@ -105,11 +110,13 @@ export const categories = [
       },
       {
         title: "청소년 캠프 스케치",
+        description: "청소년 캠프의 활동과 참가자들의 모습을 담은 스케치 영상",
         id: "T8WYVkdbbIw",
         url: "https://youtu.be/T8WYVkdbbIw",
       },
       {
         title: "사업 설명회",
+        description: "사업 내용을 한눈에 전달하도록 정리한 설명회 영상",
         id: "0wE6woyyvS4",
         url: "https://www.youtube.com/watch?v=0wE6woyyvS4",
       },
@@ -129,6 +136,7 @@ export const categories = [
     videos: [
       {
         title: "해외 축구선수 토크쇼",
+        description: "해외 선수들과 나눈 이야기를 토크쇼 형식으로 풀어낸 인터뷰 영상",
         id: "Z8oH-y2-8f0",
         url: "https://youtu.be/Z8oH-y2-8f0",
       },

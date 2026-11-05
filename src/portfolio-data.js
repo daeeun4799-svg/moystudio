@@ -49,12 +49,14 @@ export const categories = [
         url: "https://www.youtube.com/watch?v=DH1nwgWdTjc",
       },
       {
-        title: "행사 기록 다큐멘터리",
+        title: "해외 환자 초청 수술 기록 다큐멘터리",
+        description: "해외 환자를 초청해 진행한 수술의 전 과정을 기록한 다큐멘터리",
         id: "JQ2P7FVl4sk",
         url: "https://youtu.be/JQ2P7FVl4sk",
       },
       {
         title: "숏 다큐멘터리",
+        description: "짧은 호흡으로 인물과 이야기의 핵심을 담아낸 숏 다큐멘터리",
         id: "dHSBa-8si-s",
         url: "https://www.youtube.com/watch?v=dHSBa-8si-s",
       },
@@ -74,17 +76,20 @@ export const categories = [
       },
       {
         title: "행사 홍보영상",
+        description: "행사의 핵심 내용과 분위기를 미리 알리는 홍보영상",
         id: "jgKQGv4cQ4g",
         url: "https://youtu.be/jgKQGv4cQ4g",
       },
       {
         title: "스포츠 행사 홍보 영상",
+        description: "트렌디하게 스포츠 행사를 소개하는 쇼츠 영상",
         id: "wTlDNO2dL-0",
         url: "https://youtube.com/shorts/wTlDNO2dL-0",
         isShort: true,
       },
       {
         title: "동호회 홍보영상",
+        description: "동호회의 활동과 분위기를 간결하게 소개하는 쇼츠 영상",
         id: "-XLCogjkE-8",
         url: "https://youtube.com/shorts/-XLCogjkE-8",
         isShort: true,
@@ -100,11 +105,13 @@ export const categories = [
     videos: [
       {
         title: "결과 보고서 영상",
+        description: "사업의 추진 과정과 성과를 영상으로 정리한 결과 보고 영상",
         id: "9UaVH8mKXjM",
         url: "https://www.youtube.com/watch?v=9UaVH8mKXjM",
       },
       {
         title: "청소년 행사 스케치",
+        description: "청소년 행사의 현장 분위기와 참여 모습을 담은 스케치 영상",
         id: "ivadLUMhA-Q",
         url: "https://www.youtube.com/watch?v=ivadLUMhA-Q",
       },
@@ -122,6 +129,7 @@ export const categories = [
       },
       {
         title: "축사 영상",
+        description: "행사나 기념식에 전하는 축사 영상",
         id: "-j5yMrzFJfc",
         url: "https://www.youtube.com/watch?v=-j5yMrzFJfc",
       },
@@ -142,11 +150,13 @@ export const categories = [
       },
       {
         title: "정보전달 예능형",
+        description: "정보를 예능 형식으로 쉽고 재미있게 풀어낸 영상",
         id: "mV915iQ6bgU",
         url: "https://youtu.be/mV915iQ6bgU",
       },
       {
         title: "인터뷰 (쇼츠)",
+        description: "간단한 인터뷰를 쇼츠 형식으로 만든 영상",
         id: "QqcdJcOrbXA",
         url: "https://youtube.com/shorts/QqcdJcOrbXA",
         isShort: true,
@@ -161,18 +171,21 @@ export const categories = [
     videos: [
       {
         title: "스포츠 행사 스케치 (쇼츠)",
+        description: "스포츠 행사의 하이라이트를 빠르게 담은 쇼츠 스케치 영상",
         id: "Bva0orqLZlQ",
         url: "https://www.youtube.com/shorts/Bva0orqLZlQ",
         isShort: true,
       },
       {
         title: "해외 바이럴 광고 (쇼츠)",
+        description: "해외 시청자를 겨냥해 짧게 구성한 바이럴 광고 영상",
         id: "PRwa96EJdCE",
         url: "https://youtube.com/shorts/PRwa96EJdCE",
         isShort: true,
       },
       {
         title: "국내 바이럴 광고 (쇼츠)",
+        description: "국내 SNS 환경에 맞춰 짧게 구성한 바이럴 광고 영상",
         id: "carih9DFqdk",
         url: "https://youtube.com/shorts/carih9DFqdk",
         isShort: true,
